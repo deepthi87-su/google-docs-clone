@@ -17,13 +17,13 @@ Database: MongoDB
 
 
 ###  Document 
-<img width="1280" alt="Google docs " src="https://github.com/deepthi87-su/google-docs-clone/assets/38854912/86da5527-6b22-4efe-b0f6-ebb6eb1b280d">
+<img width="1280" alt="Google docs " src="./resources/images/Google docs.png">
 
 ### Document and its formatting options
-<img width="1280" alt="google docs" src="https://github.com/deepthi87-su/google-docs-clone/assets/38854912/f0162b50-dd7a-4c3a-a6a9-d1d70d3b4d62">
+<img width="1280" alt="google docs" src="./resources/images/Google docs 1.png">
 
 ### Multiple users editing the same document
- <img width="1280" alt="google docs 1" src="https://github.com/deepthi87-su/google-docs-clone/assets/38854912/08b93bb3-fee9-4c6e-9e04-404e0e744a59">
+ <img width="1280" alt="google docs 1" src="./resources/images/google docs 1.png">
 
 
 
