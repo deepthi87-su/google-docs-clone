@@ -17,13 +17,13 @@ Database: MongoDB
 
 
 ###  Document 
-<img width="1280" alt="Google docs " src="./resources/images/Google docs.png">
+<img width="1280" alt="Google docs " src="./resources/images/google_docs1.png">
 
 ### Document and its formatting options
-<img width="1280" alt="google docs" src="./resources/images/Google docs 1.png">
+<img width="1280" alt="google docs" src="./resources/images/google_docs2.png">
 
 ### Multiple users editing the same document
- <img width="1280" alt="google docs 1" src="./resources/images/google docs 1.png">
+ <img width="1280" alt="google docs 1" src="./resources/images/google_docs3.png">
 
 
 
